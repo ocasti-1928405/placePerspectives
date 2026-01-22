@@ -15,8 +15,8 @@ Research Narrative
 - This project attempts to acknowledge the three perspectives and how they differ. This project was intended to decipher patterns between perspectives of the city Seattle as a community, transition, and commodity.
     
 **Comparison of Word Clouds:**
--A obvious similarity between the three word clouds icludes the word "Rain" which Seattle is well known for. 
--Another similarity I found between: "Living in Seattle" and "Moving to Seattle" was the mentioning of the term "Friends" and "Alone" often. As the city is known for it's "Freeze", I can understand why this term would pop up as a potential concern when speaking from a soon to be resident/residents' perspective.
+- A obvious similarity between the three word clouds icludes the word "Rain" which Seattle is well known for. 
+- Another similarity I found between: "Living in Seattle" and "Moving to Seattle" was the mentioning of the term "Friends" and "Alone" often. As the city is known for it's "Freeze", I can understand why this term would pop up as a potential concern when speaking from a soon to be resident/residents' perspective.
     
 **Possible Reasons for Observed Patterns:**
 - As a strategy to garner views, social media influencers will lend to their titles, the term "Best" to summarize the city and its gems.
